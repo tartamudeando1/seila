@@ -12,8 +12,8 @@ console.log(subi(16,6));
 
 ]
 
-function quadrado(num1){
+function areaQuadrado(num1){
     return num1*2;
 }
-console.log(quadrado(4));
+console.log(areaQuadrado(4));
 
