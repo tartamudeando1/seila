@@ -1,1 +1,3 @@
-function soma(numero1, numero2);
+function soma(num1, num2){
+    return num1+num2;
+}
