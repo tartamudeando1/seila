@@ -19,7 +19,7 @@ console.log(areaQuadrado(4));
 
 
 
-let media = parseInt(prompt('qual sera o = n1, n2, n3'))
+let conta = parseInt(prompt('qual sera o = n1, n2, n3'))
 
 let media = function(n1, n2, n3){ 
 return (n1+n2+n3)/3
