@@ -13,7 +13,7 @@ console.log(subi(16,6));
 ]
 
 function areaQuadrado(num1){
-    return num1*2;
+    return num1**2;
 }
 console.log(areaQuadrado(4));
 
