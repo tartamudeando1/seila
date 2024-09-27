@@ -17,14 +17,16 @@ function areaQuadrado(num1){
 }
 console.log(areaQuadrado(4));
 
-let conta = parseInt(prompt('qual sera o = n1, n2, n3'));
+
 
 let media = function(n1, n2, n3){ 
 
     return (n1+n2+n3)/3
+    
     }
+    let conta = parseInt(prompt('qual sera o = n1, n2, n3'));
+    document.write(media)
 
-document.write(media)
 
 
 //console.log(media(1,2,3));
