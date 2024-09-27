@@ -27,7 +27,7 @@ let media = function(n1, n2, n3){
     
     }
     
-    document.write(conta1,conta2,conta3)
+    document.write((conta1,conta2,conta3)/3)
 
 
 
