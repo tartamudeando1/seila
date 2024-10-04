@@ -48,7 +48,7 @@
 
 let animeAssistidos = 10;
    if(animeAssistidos >= 10 ){
-     console.log('Vc é ser otaku');
+     console.log('Vc é otaku');
 }
    else{
      console.log('Vc n é otaku');
