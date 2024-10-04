@@ -54,3 +54,4 @@ let animeAssistidos = 10;
      console.log('Vc n é otaku');
 }
 
+parseInt(prompt('Quantoas animes vc já assistiu'));
