@@ -34,10 +34,11 @@
 //console.log(media(1,2,3));
 
 let estados = ['AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','PB','PR','PE','PI','RJ','RN','RS','RO','RR','SC','SP','SE','TO'];
-   let i =0;
-     while(i <= 10){
+let i =0;
+    while(i <= 26){
         console.log(i);
-    i = i+1;    
+        console.log(estados[i]);
+    i = i++;    
 }
 
 
