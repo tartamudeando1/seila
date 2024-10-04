@@ -46,8 +46,8 @@
 //     console.log(estados[j]);    
 // }
 
-
-   if(animeAssistidos >= 10 ){
+   let animeAssistidos;
+   if(animeAssistidos >= ){
      console.log('Vc é otaku');
 }
    else{
@@ -55,3 +55,4 @@
 }
 
 parseInt(prompt('Quantoas animes vc já assistiu'));
+return (animeAssistidos);
