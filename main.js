@@ -46,4 +46,11 @@ for (let j = 0; j < estados.length; j++) {
     console.log(estados[j]);    
 }
 
+let animeAssistidos = 10;
+   if(animeAssistidos = 10 ){
+     console.log('Pode ser otaku');
+}
+   else{
+     console.log('Vc n é otaku');
+}
 
