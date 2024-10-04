@@ -38,7 +38,12 @@ let i =0;
     while(i < estados.length){
         console.log(i);
         console.log(estados[i]);
-    i = i+1;    
+    i++;    
+}
+
+for (let j = 0; j < estados.length; j++) {
+    const element = estados[j];
+    
 }
 
 
